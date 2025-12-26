@@ -1,4 +1,3 @@
-# Zeroual-oussama
 # Hey everyone , Oussama here 👋
 
 🎓 Applied Mathematics student  
