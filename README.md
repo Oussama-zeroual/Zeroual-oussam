@@ -11,14 +11,11 @@
 ---
 
 ## 🔬 Interests
-<details>
-<summary>Click to expand 👇</summary>
 
 - Mathematical modeling of complex systems  
 - Simulation & optimization  
 - Machine learning and data-driven modeling  
 
-</details>
 
 ---
 
@@ -33,15 +30,12 @@
 ---
 
 ## 📌 Contact Me
-<details>
-<summary>Click to view 👇</summary>
 
 - **Phone:** +213655655719  
 - **GitHub:** [ZeroualOussama](https://github.com/ZeroualOussama)  
 - **LinkedIn:** [Zeroual Oussama](https://www.linkedin.com/in/your-linkedin-profile)  
 - **Telegram:** [@Samzeroual](https://t.me/Samzeroual)  
 
-</details>
 
 ---
 
