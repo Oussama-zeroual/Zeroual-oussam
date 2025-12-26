@@ -11,7 +11,6 @@
 - Mathematical modeling of complex systems
 - Simulation & optimization
 - Machine learning and data-driven modeling
-- 
 ---
 
 ## 🛠️ Technical Skills
@@ -25,4 +24,5 @@
 
 📫 **Contact**
 - GitHub: https://github.com/YOUR_USERNAME
-
+- LinkedIn: linkedin.com/in/oussama-zeroual-9a54a928a
+- telegram: @Samzeroual
